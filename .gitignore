@@ -50,3 +50,5 @@ data\\quest_data.json
 data\\raid_info.json
 /data/
 /screenshots/
+
+venv/
